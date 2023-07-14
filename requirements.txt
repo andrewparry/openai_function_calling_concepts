@@ -1,3 +1,2 @@
-json
 openai
-os
+python-dotenv
